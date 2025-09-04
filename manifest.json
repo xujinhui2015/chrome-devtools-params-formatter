@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "DevTools Params Formatter",
+  "version": "1.0",
+  "description": "在 DevTools Network Payload 面板中以 key: value 格式显示参数",
+  "permissions": [
+    "activeTab",
+    "clipboardWrite"
+  ],
+  "devtools_page": "devtools.html"
+}
